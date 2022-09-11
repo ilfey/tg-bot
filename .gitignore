@@ -2,3 +2,4 @@ venv
 env
 env.sh
 logs.txt
+**/__pycache__

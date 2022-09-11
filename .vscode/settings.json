@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        "env": true,
+        "LICENSE": true,
+        "**/__pycache__": true
+    }
+}
